@@ -1,7 +1,20 @@
-h6{
+.heading{
+    text-align: center;
+    background-color:rgba(11, 243, 243, 0.459);
     color:aliceblue;
-    font-size: 100px;
 }
-.pink{
-    color:hotpink;
+body{
+    background-color:aquamarine;
+}
+
+ol{
+    border: 5px solid blue;
+    font-size: 40px;
+    color: green;
+}
+
+ul{
+    border: 10px solid orange;
+    font-size: 40px;
+    color:deepskyblue;
 }
